@@ -1,0 +1,7 @@
+{
+  "name": "input-masking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
